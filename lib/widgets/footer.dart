@@ -32,7 +32,7 @@ class FooterStack extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             // ROW 1: STACK OVERFLOW
-            buildFooterColumn('STACK OVERFLOW', [
+            buildFooterColumn('ALPHA OVERFLOW', [
               buildFooterItem('Questions'),
               buildFooterItem('Help'),
             ]),
@@ -58,7 +58,7 @@ class FooterStack extends StatelessWidget {
             ]),
 
             // ROW 4: STACK EXCHANGE NETWORK
-            buildFooterColumn('STACK EXCHANGE NETWORK', [
+            buildFooterColumn('ALPHA EXCHANGE NETWORK', [
               buildFooterItem('Technology'),
               buildFooterItem('Culture & recreation'),
               buildFooterItem('Life & arts'),
